@@ -1,0 +1,24 @@
+body {
+    width: 1260px;
+	height: 400px;
+    padding: 15px, 25px;
+    margin: 10px;
+}
+/* H1 and P styles */
+.h_elements {
+    text-align: center;
+	justify-content: center;
+    padding: 15px, 25px;
+    color: rgb(13, 162, 189);
+}
+.paragraph {
+    position: relative;
+	text-align: center;
+    font-family: Helvetica;
+    font-size: 20px;
+}
+/* image */
+#img {
+	position: relative;
+	align-items: center;
+}
